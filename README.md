@@ -26,6 +26,10 @@ Hash of secrets, defaults to **empty hash**
 
 Hash of connections, defaults to **empty hash**
 
+`libreswan_config::service_name'
+
+The service name, defaults to **ipsec**
+
 ## Example Hiera Usage:
  
     libreswan_config::purge_configdir: false
