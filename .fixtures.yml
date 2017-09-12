@@ -1,0 +1,10 @@
+fixtures:
+  repositories:
+    stdlib:
+      repo: "https://github.com/Adaptavist/puppet-stdlib"
+    libreswan:
+      repo: "https://github.com/Adaptavist/puppet-libreswan"
+    concat:
+      repo: "https://github.com/Adaptavist/puppet-concat"
+  symlinks:
+    libreswan_config: "#{source_dir}"
