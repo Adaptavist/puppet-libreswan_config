@@ -1,5 +1,5 @@
 name 'adaptavist-libreswan_config'
-version '0.0.5=1'
+version '0.0.2'
 source 'https://github.com/Adaptavist/puppet-libreswan_config.git'
 author 'adaptavist'
 summary 'libreswan configuration Module' 
